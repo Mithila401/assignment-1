@@ -62,7 +62,7 @@ background: rgb(13, 19, 33);
 
 .third-part-container{
     max-width: 1320px;
-    height: 775px;
+    height: 700px;
     /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 50px;
@@ -100,5 +100,121 @@ height: 550px;
 border-radius: 16px;
 
 }
-
-
+/* fourth part style starts here */
+.fourth-part-container{
+    max-width: 1320px;
+    height: 775px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+.fourth-part-content h1{
+    width: 870px;
+height: 39px;
+display: flex;
+/* flex-direction: column; */
+justify-content: center;
+align-items: center;
+font-size: 32px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+text-align: center;
+margin-left: 150px;
+margin-bottom: 30px;
+}
+.fourth-part-content p{
+    font-size: 16px;
+font-weight: 400;
+color: rgb(13, 19, 33);
+display: flex;
+text-align: center;
+margin-left: 280px;
+margin-bottom: 70px;
+}
+.fourth-part-container card{
+    max-width: 1320px;
+    height: 300px;
+    border: 2px solid yellowgreen;
+    margin: 0 auto;
+    display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+}
+.html-card{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    width: 364px;
+height: 300px;
+padding: 40px;
+}
+.html-card h1{
+    font-size: 24px;
+    font-weight: 800; 
+    color: rgb(13, 19, 33);
+    margin-bottom:20px ;
+    margin-top: 10px;
+}
+.html-card p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+font-weight: 400;
+margin-bottom:20px ;
+}
+#learn-more{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33); 
+    text-decoration-line: underline;
+    
+}
+.css-card{
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+width: 364px;
+height: 300px;
+padding: 40px;
+}
+.css-card h1{
+    font-size: 24px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+margin-top: 10px;
+margin-bottom:20px ;
+}
+.css-card p{
+    font-size: 16px;
+font-weight: 400;
+color: rgb(13, 19, 33);
+margin-bottom:20px ;
+}
+#learn{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33); 
+    text-decoration-line: underline;
+}
+.js-card{
+    border-radius: 16px;
+background: rgba(255, 223, 0, 0.05);
+width: 364px;
+height: 300px;
+padding: 40px;
+}
+.js-card h1{
+    font-size: 24px;
+font-weight: 800;
+margin-top: 10px;
+margin-bottom:20px ;
+}
+.js-card p{
+    font-size: 16px;
+font-weight: 400;
+color: rgb(13, 19, 33);
+margin-bottom:20px ;
+}
+#js{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33); 
+    text-decoration-line: underline;
+}
