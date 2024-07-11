@@ -58,3 +58,47 @@ background: rgb(13, 19, 33);
 }
 /* banner style ends here */
 
+/* third part style */
+
+.third-part-container{
+    max-width: 1320px;
+    height: 775px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.third-part-content h1{
+    width: 870px;
+height: 39px;
+display: flex;
+/* flex-direction: column; */
+justify-content: center;
+align-items: center;
+font-size: 32px;
+font-weight: 800;
+color: rgb(13, 19, 33);
+text-align: center;
+margin-left: 150px;
+margin-bottom: 30px;
+}
+.third-part-content p{
+    font-size: 16px;
+font-weight: 400;
+color: rgb(13, 19, 33);
+display: flex;
+text-align: center;
+margin-left: 8px;
+margin-bottom: 70px;
+}
+.third-part-content video{
+    position: static;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 1076px;
+height: 550px;
+border-radius: 16px;
+
+}
+
+
