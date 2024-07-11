@@ -21,7 +21,7 @@ body {
     background-repeat: no repeat;
     background-size: cover;
     border-radius: 16px;
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(assets/Hero-bg.png);
     width: 1440px;
     height: 652px;
 
@@ -316,7 +316,7 @@ body {
     height: 775px;
     /* border: 2px solid red; */
     margin: 0 auto;
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(assets/handshake.jpg);
     border-radius: 16px;
     background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), url(Email);
     padding: 64px 48px 64px 48px;
